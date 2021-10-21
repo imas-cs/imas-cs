@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imas-cs
+- 👋 Hi, I’m @samihoque
 - 👀 I’m interested in Computer Science and Video Games
 - 🌱 I’m currently learning Computer Science at Rutgers University
 - 💞️ I’m looking to collaborate on CS projects
